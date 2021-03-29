@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AopWebApi", "AopWebApi\AopWebApi.csproj", "{BA86FA6E-5A9C-478F-8177-DEFD23EE69AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA86FA6E-5A9C-478F-8177-DEFD23EE69AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA86FA6E-5A9C-478F-8177-DEFD23EE69AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA86FA6E-5A9C-478F-8177-DEFD23EE69AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA86FA6E-5A9C-478F-8177-DEFD23EE69AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8FB1527-AD88-4855-A299-3B27205562E5}
+	EndGlobalSection
+EndGlobal
